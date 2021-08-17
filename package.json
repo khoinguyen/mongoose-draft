@@ -1,6 +1,6 @@
 {
   "name": "mongoose-draft",
-  "version": "0.5.3",
+  "version": "0.6.1",
   "main": "./lib/draft.js",
   "description": "mongoose draft plugin",
   "scripts": {
@@ -27,7 +27,7 @@
     "chai": "^3.5.0",
     "eslint": "^2.9.0",
     "mocha": "^2.4.5",
-    "mongoose": "^4.4.14"
+    "mongoose": "^5.13.5"
   },
   "engines": {
     "node": ">=4.1.0",
@@ -35,7 +35,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/marchah/mongoose-draft.git"
+    "url": "git@github.com:khoinguyen/mongoose-draft.git"
   },
   "bugs": {
     "url": "https://github.com/marchah/mongoose-draft/issues"
